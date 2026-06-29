@@ -1,6 +1,6 @@
 header{
     background-color: rgb(5, 4, 4);
-    color: rgb(162, 153, 153);
+    color: rgb(202, 195, 195);
     text-align: center;
     max-width: 800px ;
     margin: 0 auto;
@@ -14,4 +14,9 @@ main{
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
 }
